@@ -1,0 +1,31 @@
+
+
+p {
+  background-color: beige;
+  margin-right: 15%;
+  margin-left: 15%;
+  font-size: 130%;
+}
+h
+{
+  font-size: 200%;
+  color:
+    darkblue;
+  
+}
+
+div {
+  background-color: aquamarine;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.header center{
+  display: block;
+  width: 50%;
+}
